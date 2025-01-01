@@ -60,3 +60,7 @@ packages/
 .vs/
 .idea/
 .localhistory
+
+#C++
+*.cpp
+*.h
